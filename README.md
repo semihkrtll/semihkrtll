@@ -18,4 +18,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semihkrtll&" alt="semihkrtll" /></p>
 
 ## My Github Contributions
-![Snake animation](https://github.com/semihktrll/semihktrll/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/semihkrtll/semihkrtll/blob/output/github-contribution-grid-snake.gif)

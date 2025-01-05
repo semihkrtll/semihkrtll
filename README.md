@@ -18,6 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihkrtll&show_icons=true&locale=en" alt="semihkrtll" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semihkrtll&" alt="semihkrtll" /></p>
+<p><img align="center" width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=semihkrtll&" alt="semihkrtll" /></p>
 
 
